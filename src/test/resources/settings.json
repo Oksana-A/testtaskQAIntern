@@ -1,0 +1,4 @@
+{
+  "baseUrl": "http://some_domain.com:8080",
+  "path": "/company/{companyId}/users?name={someName}"
+}

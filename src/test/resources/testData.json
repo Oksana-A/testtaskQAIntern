@@ -1,0 +1,8 @@
+{
+  "nonexistentCompanyId": "123",
+  "fistCompanyId": "111",
+  "secondCompanyId": "222",
+  "nonexistentUser": "nonExist",
+  "fistCompanyUserName": "user1",
+  "secondCompanyUserName": "user2"
+}
